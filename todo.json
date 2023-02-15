@@ -1,0 +1,14 @@
+{
+    "TODO item 1": {
+        "completed": true
+    },
+    "TODO item 2": {
+        "completed": true
+    },
+    "fff": {
+        "completed": false
+    },
+    "kkk": {
+        "completed": false
+    }
+}
